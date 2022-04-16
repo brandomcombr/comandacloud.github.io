@@ -3,7 +3,7 @@
 <details>
   <summary><h4><li>Como usar?</li></h4></summary>
 
-  <blockquote></blovkquote>
+  <blockquote></blockquote>
 </details>
 
 <details>
