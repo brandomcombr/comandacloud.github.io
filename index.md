@@ -1,13 +1,13 @@
 ## Perguntas frequentes
 
 <details>
-  <summary><h4>Como usar?</h4></summary>
+  <summary>Como usar?</summary>
 
   <blockquote></blockquote>
 </details>
 
 <details>
-  <summary><h4>É possível acessar com mais de um aparelho?</h4></summary>
+  <summary>É possível acessar com mais de um aparelho?</summary>
 
   <blockquote><p>Sim! Baixa o aplicativo em todos os aparelhos que precisar e acessa com o mesmo e-mail e senha.</p>
 <p>Mesmo a versão gratuita não tem limites de aparelho.</p>
